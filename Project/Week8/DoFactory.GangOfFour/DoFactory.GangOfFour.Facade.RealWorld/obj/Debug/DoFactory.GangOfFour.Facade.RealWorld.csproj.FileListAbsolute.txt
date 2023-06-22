@@ -1,0 +1,10 @@
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Facade.RealWorld\bin\Debug\DoFactory.GangOfFour.Facade.RealWorld.exe
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Facade.RealWorld\bin\Debug\DoFactory.GangOfFour.Facade.RealWorld.pdb
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Facade.RealWorld\obj\Debug\ResolveAssemblyReference.cache
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Facade.RealWorld\obj\Debug\DoFactory.GangOfFour.Facade.RealWorld.exe
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Facade.RealWorld\obj\Debug\DoFactory.GangOfFour.Facade.RealWorld.pdb
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Facade.RealWorld\bin\Debug\DoFactory.GangOfFour.Facade.RealWorld.exe
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Facade.RealWorld\bin\Debug\DoFactory.GangOfFour.Facade.RealWorld.pdb
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Facade.RealWorld\obj\Debug\ResolveAssemblyReference.cache
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Facade.RealWorld\obj\Debug\DoFactory.GangOfFour.Facade.RealWorld.exe
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Facade.RealWorld\obj\Debug\DoFactory.GangOfFour.Facade.RealWorld.pdb

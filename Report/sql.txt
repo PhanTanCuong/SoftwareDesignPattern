@@ -1,0 +1,11 @@
+SELECT course_id, Count(student_id) as SLSV FROM Score GROUP BY Score.course_id
+SELECT course_id, Count(student_id) as SLSVPass FROM Score WHERE student_score >= 5 GROUP BY Score.course_id
+SELECT course_id, Count(student_id) as SLSVFail FROM Score WHERE student_score < 5 GROUP BY Score.course_id
+
+        SqlCommand command = new SqlCommand(" SELECT Tong.course_id, course_table.lable, SLSV, SLSVPass, SLSVFail FROM
+						(SELECT course_id, Count(student_id) as SLSV FROM Score GROUP BY Score.course_id) as Tong LEFT OUTER JOIN 
+						(SELECT course_id, Count(student_id) as SLSVPass FROM Score WHERE student_score >= 5 GROUP BY Score.course_id) as Pass 
+                        				ON Tong.course_id = Pass.course_id LEFT OUTER JOIN 
+						(SELECT course_id, Count(student_id) as SLSVFail FROM Score WHERE student_score < 5 GROUP BY Score.course_id) as Fail 
+                        				ON Tong.course_id = Fail.course_id 
+                        			INNER JOIN course_table on Tong.course_id = course_table.course_id")

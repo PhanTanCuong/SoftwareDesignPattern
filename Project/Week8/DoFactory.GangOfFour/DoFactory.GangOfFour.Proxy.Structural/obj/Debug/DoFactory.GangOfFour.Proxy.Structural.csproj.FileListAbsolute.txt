@@ -1,0 +1,10 @@
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Proxy.Structural\bin\Debug\DoFactory.GangOfFour.Proxy.Structural.exe
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Proxy.Structural\bin\Debug\DoFactory.GangOfFour.Proxy.Structural.pdb
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Proxy.Structural\obj\Debug\ResolveAssemblyReference.cache
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Proxy.Structural\obj\Debug\DoFactory.GangOfFour.Proxy.Structural.exe
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Proxy.Structural\obj\Debug\DoFactory.GangOfFour.Proxy.Structural.pdb
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Proxy.Structural\bin\Debug\DoFactory.GangOfFour.Proxy.Structural.exe
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Proxy.Structural\bin\Debug\DoFactory.GangOfFour.Proxy.Structural.pdb
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Proxy.Structural\obj\Debug\ResolveAssemblyReference.cache
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Proxy.Structural\obj\Debug\DoFactory.GangOfFour.Proxy.Structural.exe
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Proxy.Structural\obj\Debug\DoFactory.GangOfFour.Proxy.Structural.pdb

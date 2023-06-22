@@ -1,0 +1,14 @@
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Template.Structural\bin\Debug\DoFactory.GangOfFour.Template.Structural.exe
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Template.Structural\bin\Debug\DoFactory.GangOfFour.Template.Structural.pdb
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Template.Structural\obj\Debug\ResolveAssemblyReference.cache
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Template.Structural\obj\Debug\DoFactory.GangOfFour.Template.Structural.exe
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Template.Structural\obj\Debug\DoFactory.GangOfFour.Template.Structural.pdb
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Template.Structural\bin\Debug\DoFactory.GangOfFour.Template.Structural.exe
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Template.Structural\bin\Debug\DoFactory.GangOfFour.Template.Structural.pdb
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Template.Structural\obj\Debug\ResolveAssemblyReference.cache
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Template.Structural\obj\Debug\DoFactory.GangOfFour.Template.Structural.exe
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Template.Structural\obj\Debug\DoFactory.GangOfFour.Template.Structural.pdb
+F:\11-12 HKII\TKPMHDT\Tai lieu\DoFactory.GangOfFour\DoFactory.GangOfFour.Template.Structural\obj\Debug\DoFactory.GangOfFour.Template.Structural.exe
+F:\11-12 HKII\TKPMHDT\Tai lieu\DoFactory.GangOfFour\DoFactory.GangOfFour.Template.Structural\obj\Debug\DoFactory.GangOfFour.Template.Structural.pdb
+F:\12-13 HKII\TKPMHDT\Tai lieu\DoFactory.GangOfFour\DoFactory.GangOfFour.Template.Structural\obj\Debug\DoFactory.GangOfFour.Template.Structural.exe
+F:\12-13 HKII\TKPMHDT\Tai lieu\DoFactory.GangOfFour\DoFactory.GangOfFour.Template.Structural\obj\Debug\DoFactory.GangOfFour.Template.Structural.pdb

@@ -1,0 +1,11 @@
+D:\Software Design Patern\Project\FactoryProject\FactoryProject\bin\Debug\FactoryProject.exe.config
+D:\Software Design Patern\Project\FactoryProject\FactoryProject\bin\Debug\FactoryProject.exe
+D:\Software Design Patern\Project\FactoryProject\FactoryProject\bin\Debug\FactoryProject.pdb
+D:\Software Design Patern\Project\FactoryProject\FactoryProject\obj\Debug\FactoryProject.csproj.AssemblyReference.cache
+D:\Software Design Patern\Project\FactoryProject\FactoryProject\obj\Debug\FactoryProject.csproj.SuggestedBindingRedirects.cache
+D:\Software Design Patern\Project\FactoryProject\FactoryProject\obj\Debug\FactoryProject.Form1.resources
+D:\Software Design Patern\Project\FactoryProject\FactoryProject\obj\Debug\FactoryProject.Properties.Resources.resources
+D:\Software Design Patern\Project\FactoryProject\FactoryProject\obj\Debug\FactoryProject.csproj.GenerateResource.cache
+D:\Software Design Patern\Project\FactoryProject\FactoryProject\obj\Debug\FactoryProject.csproj.CoreCompileInputs.cache
+D:\Software Design Patern\Project\FactoryProject\FactoryProject\obj\Debug\FactoryProject.exe
+D:\Software Design Patern\Project\FactoryProject\FactoryProject\obj\Debug\FactoryProject.pdb

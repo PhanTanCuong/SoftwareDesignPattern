@@ -1,0 +1,21 @@
+D:\HK2 2022-2023\Software Design Patterns\FactoryMethod_Demo\FactoryMethod_Demo\bin\Debug\FactoryMethod_Demo.exe.config
+D:\HK2 2022-2023\Software Design Patterns\FactoryMethod_Demo\FactoryMethod_Demo\bin\Debug\FactoryMethod_Demo.exe
+D:\HK2 2022-2023\Software Design Patterns\FactoryMethod_Demo\FactoryMethod_Demo\bin\Debug\FactoryMethod_Demo.pdb
+D:\HK2 2022-2023\Software Design Patterns\FactoryMethod_Demo\FactoryMethod_Demo\obj\Debug\FactoryMethod_Demo.csproj.AssemblyReference.cache
+D:\HK2 2022-2023\Software Design Patterns\FactoryMethod_Demo\FactoryMethod_Demo\obj\Debug\FactoryMethod_Demo.Properties.Resources.resources
+D:\HK2 2022-2023\Software Design Patterns\FactoryMethod_Demo\FactoryMethod_Demo\obj\Debug\FactoryMethod_Demo.csproj.GenerateResource.cache
+D:\HK2 2022-2023\Software Design Patterns\FactoryMethod_Demo\FactoryMethod_Demo\obj\Debug\FactoryMethod_Demo.csproj.CoreCompileInputs.cache
+D:\HK2 2022-2023\Software Design Patterns\FactoryMethod_Demo\FactoryMethod_Demo\obj\Debug\FactoryMethod_Demo.exe
+D:\HK2 2022-2023\Software Design Patterns\FactoryMethod_Demo\FactoryMethod_Demo\obj\Debug\FactoryMethod_Demo.pdb
+D:\HK2 2022-2023\Software Design Patterns\FactoryMethod_Demo\FactoryMethod_Demo\obj\Debug\FactoryMethod_Demo.form_CreateAnimal.resources
+D:\Software Design Patern\Report\Group6_9\Nhom06_Presentation\FactoryMethod_Demo\FactoryMethod_Demo\bin\Debug\FactoryMethod_Demo.exe.config
+D:\Software Design Patern\Report\Group6_9\Nhom06_Presentation\FactoryMethod_Demo\FactoryMethod_Demo\bin\Debug\FactoryMethod_Demo.exe
+D:\Software Design Patern\Report\Group6_9\Nhom06_Presentation\FactoryMethod_Demo\FactoryMethod_Demo\bin\Debug\FactoryMethod_Demo.pdb
+D:\Software Design Patern\Report\Group6_9\Nhom06_Presentation\FactoryMethod_Demo\FactoryMethod_Demo\obj\Debug\FactoryMethod_Demo.csproj.AssemblyReference.cache
+D:\Software Design Patern\Report\Group6_9\Nhom06_Presentation\FactoryMethod_Demo\FactoryMethod_Demo\obj\Debug\FactoryMethod_Demo.csproj.SuggestedBindingRedirects.cache
+D:\Software Design Patern\Report\Group6_9\Nhom06_Presentation\FactoryMethod_Demo\FactoryMethod_Demo\obj\Debug\FactoryMethod_Demo.form_CreateAnimal.resources
+D:\Software Design Patern\Report\Group6_9\Nhom06_Presentation\FactoryMethod_Demo\FactoryMethod_Demo\obj\Debug\FactoryMethod_Demo.Properties.Resources.resources
+D:\Software Design Patern\Report\Group6_9\Nhom06_Presentation\FactoryMethod_Demo\FactoryMethod_Demo\obj\Debug\FactoryMethod_Demo.csproj.GenerateResource.cache
+D:\Software Design Patern\Report\Group6_9\Nhom06_Presentation\FactoryMethod_Demo\FactoryMethod_Demo\obj\Debug\FactoryMethod_Demo.csproj.CoreCompileInputs.cache
+D:\Software Design Patern\Report\Group6_9\Nhom06_Presentation\FactoryMethod_Demo\FactoryMethod_Demo\obj\Debug\FactoryMethod_Demo.exe
+D:\Software Design Patern\Report\Group6_9\Nhom06_Presentation\FactoryMethod_Demo\FactoryMethod_Demo\obj\Debug\FactoryMethod_Demo.pdb

@@ -1,0 +1,12 @@
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Observer.Structural\bin\Debug\DoFactory.GangOfFour.Observer.Structural.exe
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Observer.Structural\bin\Debug\DoFactory.GangOfFour.Observer.Structural.pdb
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Observer.Structural\obj\Debug\ResolveAssemblyReference.cache
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Observer.Structural\obj\Debug\DoFactory.GangOfFour.Observer.Structural.exe
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Observer.Structural\obj\Debug\DoFactory.GangOfFour.Observer.Structural.pdb
+D:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Observer.Structural\obj\Debug\DoFactory.GangOfFour.Observer.Structural.exe
+D:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Observer.Structural\obj\Debug\DoFactory.GangOfFour.Observer.Structural.pdb
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Observer.Structural\obj\Debug\DoFactory.GangOfFour.Observer.Structural.exe
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Observer.Structural\obj\Debug\DoFactory.GangOfFour.Observer.Structural.pdb
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Observer.Structural\bin\Debug\DoFactory.GangOfFour.Observer.Structural.exe
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Observer.Structural\bin\Debug\DoFactory.GangOfFour.Observer.Structural.pdb
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Observer.Structural\obj\Debug\ResolveAssemblyReference.cache

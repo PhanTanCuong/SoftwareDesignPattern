@@ -1,0 +1,10 @@
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Interpreter.Structural\bin\Debug\DoFactory.GangOfFour.Interpreter.Structural.exe
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Interpreter.Structural\bin\Debug\DoFactory.GangOfFour.Interpreter.Structural.pdb
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Interpreter.Structural\obj\Debug\ResolveAssemblyReference.cache
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Interpreter.Structural\obj\Debug\DoFactory.GangOfFour.Interpreter.Structural.exe
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Interpreter.Structural\obj\Debug\DoFactory.GangOfFour.Interpreter.Structural.pdb
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Interpreter.Structural\bin\Debug\DoFactory.GangOfFour.Interpreter.Structural.exe
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Interpreter.Structural\bin\Debug\DoFactory.GangOfFour.Interpreter.Structural.pdb
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Interpreter.Structural\obj\Debug\ResolveAssemblyReference.cache
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Interpreter.Structural\obj\Debug\DoFactory.GangOfFour.Interpreter.Structural.exe
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Interpreter.Structural\obj\Debug\DoFactory.GangOfFour.Interpreter.Structural.pdb

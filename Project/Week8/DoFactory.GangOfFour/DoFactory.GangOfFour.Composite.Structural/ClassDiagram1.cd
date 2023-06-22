@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DoFactory.GangOfFour.Composite.Structural.MainApp">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MainApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoFactory.GangOfFour.Composite.Structural.Component">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABQAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoFactory.GangOfFour.Composite.Structural.Composite">
+    <Position X="3.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAQAAAAABQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoFactory.GangOfFour.Composite.Structural.Leaf">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.15" />
+</ClassDiagram>

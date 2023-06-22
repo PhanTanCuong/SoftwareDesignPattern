@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DoFactory.GangOfFour.Iterator.Structural.MainApp" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MainApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoFactory.GangOfFour.Iterator.Structural.Aggregate">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoFactory.GangOfFour.Iterator.Structural.ConcreteAggregate">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACCAgAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoFactory.GangOfFour.Iterator.Structural.Iterator">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAACAAAAAAAQAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoFactory.GangOfFour.Iterator.Structural.ConcreteIterator">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAKAAAAAABQAAAAAAAAAAgABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.15" />
+</ClassDiagram>

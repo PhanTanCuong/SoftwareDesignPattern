@@ -1,0 +1,11 @@
+Project: Building a mobile application for booking cinema ticket
+
+Members
+Phan Tấn Cường 		20110356
+Nguyễn Thanh Minh Triết	20110423
+
+Link YouTube(Demo):
+https://youtu.be/5T9XDFgjlT8
+
+Link Src code:
+https://drive.google.com/file/d/1ONzP8BVY329sXpKy3twfWxuBBYob9-gP/view?fbclid=IwAR0BOc3wYo8yIvQRdGG-Fk6oWkTUkwwouYCvRM7J4MQ_tRJAWykJvIdV

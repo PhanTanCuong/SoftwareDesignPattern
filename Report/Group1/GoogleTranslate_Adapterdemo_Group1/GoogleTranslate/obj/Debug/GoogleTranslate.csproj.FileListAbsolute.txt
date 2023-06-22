@@ -1,0 +1,21 @@
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\bin\Debug\GoogleTranslate.exe.config
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\bin\Debug\GoogleTranslate.exe
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\bin\Debug\GoogleTranslate.pdb
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.AssemblyReference.cache
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.Form1.resources
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.Properties.Resources.resources
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.GenerateResource.cache
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.CoreCompileInputs.cache
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.exe
+C:\Users\NGUYENTHAO\Desktop\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.pdb
+E:\School\Năm 3-HK 2\Software Design Patterns\Group 1\GoogleTranslate\GoogleTranslate\bin\Debug\GoogleTranslate.exe.config
+E:\School\Năm 3-HK 2\Software Design Patterns\Group 1\GoogleTranslate\GoogleTranslate\bin\Debug\GoogleTranslate.exe
+E:\School\Năm 3-HK 2\Software Design Patterns\Group 1\GoogleTranslate\GoogleTranslate\bin\Debug\GoogleTranslate.pdb
+E:\School\Năm 3-HK 2\Software Design Patterns\Group 1\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.AssemblyReference.cache
+E:\School\Năm 3-HK 2\Software Design Patterns\Group 1\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.SuggestedBindingRedirects.cache
+E:\School\Năm 3-HK 2\Software Design Patterns\Group 1\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.Form1.resources
+E:\School\Năm 3-HK 2\Software Design Patterns\Group 1\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.Properties.Resources.resources
+E:\School\Năm 3-HK 2\Software Design Patterns\Group 1\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.GenerateResource.cache
+E:\School\Năm 3-HK 2\Software Design Patterns\Group 1\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.csproj.CoreCompileInputs.cache
+E:\School\Năm 3-HK 2\Software Design Patterns\Group 1\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.exe
+E:\School\Năm 3-HK 2\Software Design Patterns\Group 1\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.pdb

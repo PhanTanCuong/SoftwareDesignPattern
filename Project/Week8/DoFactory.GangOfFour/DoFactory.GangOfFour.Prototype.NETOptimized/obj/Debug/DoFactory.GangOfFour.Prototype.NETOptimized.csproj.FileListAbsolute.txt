@@ -1,0 +1,10 @@
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Prototype.NETOptimized\bin\Debug\DoFactory.GangOfFour.Prototype.NETOptimized.exe
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Prototype.NETOptimized\bin\Debug\DoFactory.GangOfFour.Prototype.NETOptimized.pdb
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Prototype.NETOptimized\obj\Debug\ResolveAssemblyReference.cache
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Prototype.NETOptimized\obj\Debug\DoFactory.GangOfFour.Prototype.NETOptimized.exe
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Prototype.NETOptimized\obj\Debug\DoFactory.GangOfFour.Prototype.NETOptimized.pdb
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Prototype.NETOptimized\bin\Debug\DoFactory.GangOfFour.Prototype.NETOptimized.exe
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Prototype.NETOptimized\bin\Debug\DoFactory.GangOfFour.Prototype.NETOptimized.pdb
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Prototype.NETOptimized\obj\Debug\ResolveAssemblyReference.cache
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Prototype.NETOptimized\obj\Debug\DoFactory.GangOfFour.Prototype.NETOptimized.exe
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.Prototype.NETOptimized\obj\Debug\DoFactory.GangOfFour.Prototype.NETOptimized.pdb

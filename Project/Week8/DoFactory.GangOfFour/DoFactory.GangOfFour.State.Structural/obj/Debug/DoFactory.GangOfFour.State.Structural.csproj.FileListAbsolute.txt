@@ -1,0 +1,15 @@
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.State.Structural\bin\Debug\DoFactory.GangOfFour.State.Structural.exe
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.State.Structural\bin\Debug\DoFactory.GangOfFour.State.Structural.pdb
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.State.Structural\obj\Debug\ResolveAssemblyReference.cache
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.State.Structural\obj\Debug\DoFactory.GangOfFour.State.Structural.exe
+F:\09-10 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.State.Structural\obj\Debug\DoFactory.GangOfFour.State.Structural.pdb
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.State.Structural\bin\Debug\DoFactory.GangOfFour.State.Structural.exe
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.State.Structural\bin\Debug\DoFactory.GangOfFour.State.Structural.pdb
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.State.Structural\obj\Debug\ResolveAssemblyReference.cache
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.State.Structural\obj\Debug\DoFactory.GangOfFour.State.Structural.exe
+D:\10-11 HKI\Mon TKPMHDT\Tai lieu hoc tap\DoFactory.GangOfFour\DoFactory.GangOfFour.State.Structural\obj\Debug\DoFactory.GangOfFour.State.Structural.pdb
+F:\11-12 HKII\TKPMHDT\Tai lieu\DoFactory.GangOfFour\DoFactory.GangOfFour.State.Structural\obj\Debug\DoFactory.GangOfFour.State.Structural.exe
+F:\11-12 HKII\TKPMHDT\Tai lieu\DoFactory.GangOfFour\DoFactory.GangOfFour.State.Structural\obj\Debug\DoFactory.GangOfFour.State.Structural.pdb
+F:\11-12 HKII\TKPMHDT\Tai lieu\DoFactory.GangOfFour\DoFactory.GangOfFour.State.Structural\bin\Debug\DoFactory.GangOfFour.State.Structural.exe
+F:\11-12 HKII\TKPMHDT\Tai lieu\DoFactory.GangOfFour\DoFactory.GangOfFour.State.Structural\bin\Debug\DoFactory.GangOfFour.State.Structural.pdb
+F:\11-12 HKII\TKPMHDT\Tai lieu\DoFactory.GangOfFour\DoFactory.GangOfFour.State.Structural\obj\Debug\ResolveAssemblyReference.cache
